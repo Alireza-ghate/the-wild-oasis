@@ -1,6 +1,47 @@
 # The wild oasis
 
-A fullstack web application build with react query and supabase
+The Wild Oasis is a fullstack modern hotel management web application built using React.js. This project provides features to manage bookings, guests, and rooms efficiently.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+
+View and manage room bookings
+
+Add, edit, and delete guest details
+
+Handle room availability and pricing
+
+User authentication
+
+Modern UI with Styled Components
+
+State management with React Context API
+
+Navigation handled by React Router
+
+Fullstack application with a back-end server
+
+Stunning dashboard and charts
+
+Advanced react patterns such as Compond component pattern and render props pattern
+
+Ability of filtering and sorting cabins with pagination
+
+
+## Technologies Used 🛠️
+
+React.js - For building the user interface
+
+Styled Components - For styling
+
+React Router - For navigation
+
+Supabase - For authentication and backend services
+
+Recharts.js - For building charts
+
+React hook forms - For managing forms and validations
+
+React Query - For managing remote state
+
+Ract Hot Toast - For displaying toasts (notifications)
+
