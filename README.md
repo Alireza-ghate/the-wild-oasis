@@ -41,11 +41,12 @@ Recharts.js - For building charts
 
 React hook forms - For managing forms and validations
 
-## Use these test user login info:
-email: alireza.ghate.jd@gmail.com
-password: Alir2745
-
 React Query - For managing remote state
 
 Ract Hot Toast - For displaying toasts (notifications)
+
+
+## Use these test user login info:
+email: alireza.ghate.jd@gmail.com
+password: 123456789
 
